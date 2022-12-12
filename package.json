@@ -1,0 +1,28 @@
+{
+
+  "name": "zoo-pie",
+
+  "version": "1.0.0",
+
+  "description": "Bot that takes music streaming links and creates links for other music services",
+
+  "main": "index.js",
+
+  "author": "Joe",
+
+  "dependencies": {
+
+    "discord.js": "^14.7.1",
+
+    "dotenv": "^16.0.3"
+
+  },
+
+  "devDependencies": {
+
+    "eslint": "^8.29.0"
+
+  }
+
+}
+
